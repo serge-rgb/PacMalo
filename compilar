@@ -1,0 +1,1 @@
+g++ -I/usr/include/SDL/ src/main.cpp -lSDL -lSDL_ttf -lSDL_image -o pacmalo
